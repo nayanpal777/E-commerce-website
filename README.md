@@ -1,3 +1,3 @@
 # E-commerce-website
- # BackEnd is done with Django framework
- # FrontEnd is done ReactJs
+ 1.BackEnd is done with Django framework
+ 2.FrontEnd is done ReactJs

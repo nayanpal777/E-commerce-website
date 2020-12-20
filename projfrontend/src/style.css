@@ -1,0 +1,9 @@
+body {
+  background-color: #343a40;
+}
+
+label::after {
+  content:"*";
+  color:red;
+  margin-left: 5px;
+}
